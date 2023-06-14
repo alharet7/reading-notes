@@ -23,3 +23,4 @@
 - [SQL practice](https://github.com/alharet7/reading-notes/blob/main/sql.md)
 - [Prep DSA practice](https://github.com/alharet7/reading-notes/blob/main/Prep-DSA-Practice.md)
 - [Terminal practice](https://github.com/alharet7/reading-notes/blob/main/Practice-in-the-Terminal.md)
+- [The Growth Mindset](https://github.com/alharet7/reading-notes/blob/main/The-Growth-Mindset.md)
