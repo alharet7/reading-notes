@@ -13,4 +13,8 @@
 ## **Code 401 - Advanced Software Development.**
 
 - In this course, we will learn the **C# language** and the **DOTNET** framework.
-[Read class](https://github.com/alharet7/reading-notes/tree/main/Read-classes)
+### Table of contents: 
+- [Read class](https://github.com/alharet7/reading-notes/tree/main/Read-classes)
+- [SQL practice](https://github.com/alharet7/reading-notes/blob/main/sql.md)
+- [Prep DSA practice](https://github.com/alharet7/reading-notes/blob/main/Prep-DSA-Practice.md)
+- [Terminal practice](https://github.com/alharet7/reading-notes/blob/main/Practice-in-the-Terminal.md)
