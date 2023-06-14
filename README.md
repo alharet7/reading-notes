@@ -13,3 +13,4 @@
 ## **Code 401 - Advanced Software Development.**
 
 - In this course, we will learn the **C# language** and the **DOTNET** framework.
+[Read class](https://github.com/alharet7/reading-notes/tree/main/Read-classes)
