@@ -24,3 +24,4 @@
 - [Prep DSA practice](https://github.com/alharet7/reading-notes/blob/main/Prep-DSA-Practice.md)
 - [Terminal practice](https://github.com/alharet7/reading-notes/blob/main/Practice-in-the-Terminal.md)
 - [The Growth Mindset](https://github.com/alharet7/reading-notes/blob/main/The-Growth-Mindset.md)
+- [Engineering Readings](https://github.com/alharet7/reading-notes/blob/main/Engineering-Readings.md)
