@@ -21,3 +21,10 @@ We use this classes and methods to write text to a file:
 - **File** provides static methods to write text to a file such as `WriteAllLines` and `WriteAllText`, or to append text to a file such as `AppendAllLines`, `AppendAllText`, and `AppendText`.
 
 - **Path** is for strings that have file or directory path information. It contains the `Combine` method and in .NET Core 2.1 and later, the `Join` and `TryJoin` methods. These methods let you concatenate strings for building a file or directory path.
+
+---
+
+### Read to a file:
+
+The System.IO.BinaryWriter and System.IO.BinaryReader classes are used for writing and reading data other than character strings.
+[SEE THIS EXAMPLE](https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file)
