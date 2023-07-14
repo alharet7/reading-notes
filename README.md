@@ -2,10 +2,10 @@
 
 ---
 
-### what this web site is about?
+### What is this website about?
 
 - I created this website to keep up with the progress of the ***DotNet*** 💻 course and to submit assignments through it 📨.
--  This site contains several files 📁, each file contains topics related to the file.
+-  This site contains several files 📁, each containing topics related to the file.
 
 ### Code 102 - Intro to Software Development
 
@@ -19,7 +19,7 @@
 
 ### Table of contents: 
 
-- ** [Read class](https://github.com/alharet7/reading-notes/tree/main/Read-classes) **
+-  [Read class](https://github.com/alharet7/reading-notes/tree/main/Read-classes) 
 - [SQL practice](https://github.com/alharet7/reading-notes/blob/main/sql.md)
 - [Prep DSA practice](https://github.com/alharet7/reading-notes/blob/main/Prep-DSA-Practice.md)
 - [Terminal practice](https://github.com/alharet7/reading-notes/blob/main/Practice-in-the-Terminal.md)
