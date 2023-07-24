@@ -1,0 +1,15 @@
+# Navigation Properties and Routing
+
+## Routing within MVC
+
+ASP.NET MVC Routing is a feature that allows you to map URLs to controller actions in an ASP.NET MVC application. It enables you to define URLs that are meaningful and user-friendly, and that can help with search engine optimization (SEO). It also allows you to decouple the URL structure from the physical file structure of your application.
+
+There are two approaches to routing in ASP.NET MVC:
+
+- **Conventional routing**: This approach uses a route table that is defined at startup in the Global.asax file or in the Startup class. The route table contains one or more routes that specify how to match a URL path to a controller action. Each route has a name, a pattern, and some optional defaults and constraints. The routes are evaluated in the order they are defined, and the first matching route is used to handle the request. Conventional routing is typically used with controllers and views.
+
+- **Attribute routing**: This approach uses attributes that are applied to the controller classes or action methods. The attributes specify the URL patterns that are associated with the actions. Attribute routing gives you more control over the URLs of your application, and allows you to define routes that are specific to each action. Attribute routing is typically used with REST APIs.
+
+## Routing in ASP.NET Core
+
+Routing in ASP.NET Core is a feature that maps incoming requests to endpoints. Endpoints are units of executable code that can handle requests, such as controller actions or Razor Pages. Routing is enabled by a middleware that is registered in the request processing pipeline. Endpoints are defined at startup in the Startup class or in attributes, and they have a pattern that describes how to match a URL path to the endpoint. For example, the pattern “{controller}/{action}/{id?}” matches a URL path like “/Products/Details/5” and extracts the route values {controller = Products, action = Details, id = 5}. Routing also supports generating URLs and links based on the endpoint information, such as the pattern, name, and parameters. For example, the Url.Action method can generate a URL like “/Products/Details/5” based on the endpoint name and parameters. Routing behavior can be customized by using **policies**, **metadata**, **constraints**, and **conventions**. For example, **policies** can be used to ***apply authorization*** or **CORS** to ***endpoints***, **metadata** can be used to ***provide additional information about endpoints***, **constraints** can be used to ***restrict the values of route parameters***, and **conventions** can be used to ***apply common behaviors to endpoints***. Routing also allows creating custom route handlers and middleware that can run before or after the endpoint execution. For example, custom route handlers can be used to handle requests that do not match any endpoint, and custom middleware can be used to perform additional logic or modify the response.
